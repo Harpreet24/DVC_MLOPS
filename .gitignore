@@ -1,0 +1,6 @@
+/config.local
+/tmp
+/cache
+#vs code
+.vscode/
+.idea/
